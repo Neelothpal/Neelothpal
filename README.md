@@ -1,6 +1,7 @@
-# Hello there 👋
+# Hello there 👋, I am Neelothpal Samala.
 
-I am but a young scholar of Computer Science, passionate in the arts of web development and UI/UX design. With a talent for crafting seamless and splendid digital experiences, I blend creativity with technical skill to solve the challenges of the modern age.
+
+
 
 - 🌱 I’m currently learning Backend Development
 - 💬 Ask me about Javascript, HTML, CSS, ReactJs, Photoshop, Illustrator and Figma...
