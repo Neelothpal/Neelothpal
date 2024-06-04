@@ -5,7 +5,7 @@
 - 📫 How to reach me: neelothpal.12@gmail.com
 - ⚡ Fun fact: I am good at drawing (people).
 
-## <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/34041faf-780a-4fe5-aab1-b20bcce59bfc" alt="Languages" width="25"/> Languages:
+## <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/537afa4d-93de-4008-bec2-2979aee74258" alt="Languages" width="25"/> Languages:
 <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/1a93f44b-4087-496a-9bef-510fffd62c26" alt="HTML5" width="35"/>
 <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/60a8b918-47ad-471a-a839-1b2a18ba1e60" alt="css" width="35"/>
 <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/016726a4-03e6-4a74-9b43-b8a8a8c8be44" alt="Js" width="35"/>
@@ -24,6 +24,7 @@
 ![Neelothpal's Stats](https://github-readme-stats.vercel.app/api?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&count_private=true)<br>
 ![Neelothpal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neelothpal&theme=outrun&hide_border=false)<br>
 ![Neelothpal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&layout=compact)
+![markup]()
 
 <!--
 **Neelothpal/Neelothpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
