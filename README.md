@@ -14,13 +14,25 @@
 <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/2a21c3e6-96f8-4e70-bcdf-cba9c9637699" alt="C" width="35"/>
 
 ## <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/d5fc289a-6331-4553-adbf-0823a337a9e2" alt="Software" width="25"/> Software:
-<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/3b7853ae-0ca9-453e-8b8a-b9fd8048e2c4" alt="vscode" width="35"/>
-<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/6569f252-f469-4724-afac-ec42d74e31dc" alt="github" width="35"/>
-<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/1e40a406-19fe-4803-aad0-dafb63f1067d" alt="Photoshop" width="35"/>
-<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/10756777-0919-47a1-b6fd-3da7bfbc8cc3" alt="Illustrator" width="35"/>
-<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/d6b2cbc7-65da-4925-a933-7d62258a12e9" alt="XD" width="35"/>
-<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/b92a4621-e0bc-49f3-b68e-b41df4f0fc2f" alt="Figma" width="35"/>
-<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/2dde44a9-d064-447a-9ac6-35d39f0268bd" alt="Flutter" width="35"/>
+<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/3b7853ae-0ca9-453e-8b8a-b9fd8048e2c4" alt="vscode" height="35"/>
+<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/6569f252-f469-4724-afac-ec42d74e31dc" alt="github" height="35"/>
+<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/1e40a406-19fe-4803-aad0-dafb63f1067d" alt="Photoshop" height="35"/>
+<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/10756777-0919-47a1-b6fd-3da7bfbc8cc3" alt="Illustrator" height="35"/>
+<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/d6b2cbc7-65da-4925-a933-7d62258a12e9" alt="XD" height="35"/>
+<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/b92a4621-e0bc-49f3-b68e-b41df4f0fc2f" alt="Figma" height="32"/>
+<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/2dde44a9-d064-447a-9ac6-35d39f0268bd" alt="Flutter" height="32"/>
+
+## <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/411a5209-f464-485e-b4e4-16da0b3eab21" alt="Certificates" width="25"/> Certificates:
+- <Strong>Google UX design</Strong> by - <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera" width="100" />
+- <Strong>Responsive Web design</Strong> by - <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp" width="140" />
+- <Strong>JavaScript Algorithms and Data Structures (Beta)</Strong> by - <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp" width="140" />
+- <Strong>Cloud Foundations</Strong> by - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- <Strong>ML Foundations</Strong> by - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- <Strong>UX Fundamentals</Strong> by - <img src="https://img.shields.io/badge/Gymnasium-grey?style=for-the-badge" alt="Gymnasium" width="100" />
+- <Strong>Python for Data Science</Strong> by - <img src="https://img.shields.io/badge/NPTEL-maroon?style=for-the-badge" alt="NPTEL" width="65" />
+
+
+
 
 # <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/1157a709-f6fc-4bfd-b9b8-ba3b1c964d93" alt="stats" width="35"/> GitHub Stats:
 ![Neelothpal's Stats](https://github-readme-stats.vercel.app/api?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&count_private=true)<br>
