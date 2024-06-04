@@ -10,6 +10,8 @@
 <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/60a8b918-47ad-471a-a839-1b2a18ba1e60" alt="css" width="35"/>
 <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/016726a4-03e6-4a74-9b43-b8a8a8c8be44" alt="Js" width="35"/>
 <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/cee52d76-1b76-40c5-b0af-29aeb0f114a8" alt="React" width="35"/>
+<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/fdd1f96e-a7d7-4cb6-a660-b166c8ef746d" alt="Python" width="35"/>
+<img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/2a21c3e6-96f8-4e70-bcdf-cba9c9637699" alt="C" width="35"/>
 
 ## <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/d5fc289a-6331-4553-adbf-0823a337a9e2" alt="Software" width="25"/> Software:
 <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/3b7853ae-0ca9-453e-8b8a-b9fd8048e2c4" alt="vscode" width="35"/>
