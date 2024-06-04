@@ -18,7 +18,7 @@
 <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/b92a4621-e0bc-49f3-b68e-b41df4f0fc2f" alt="Figma" width="35"/>
 <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/2dde44a9-d064-447a-9ac6-35d39f0268bd" alt="Flutter" width="35"/>
 
-## <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/1157a709-f6fc-4bfd-b9b8-ba3b1c964d93" alt="stats" width="35"/> GitHub Stats:
+# <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/1157a709-f6fc-4bfd-b9b8-ba3b1c964d93" alt="stats" width="35"/> GitHub Stats:
 ![Neelothpal's Stats](https://github-readme-stats.vercel.app/api?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&count_private=true)<br>
 ![Neelothpal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neelothpal&theme=outrun&hide_border=false)<br>
 ![Neelothpal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&layout=compact)
