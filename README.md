@@ -50,8 +50,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="stats" width="52.5%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="40%"/>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelothpal&theme=outrun&hide_border=false" alt="Streak" width="100%"/>
+<p align= "center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelothpal&theme=outrun&hide_border=false" alt="Streak" width="92.5%"/>
+</p>
+
 <!--
+STATS
 ![Neelothpal's Stats](https://github-readme-stats.vercel.app/api?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&count_private=true)
 ![Neelothpal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neelothpal&theme=outrun&hide_border=false)
 ![Neelothpal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&layout=compact)
