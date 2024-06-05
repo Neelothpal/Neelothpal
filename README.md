@@ -45,9 +45,12 @@
 
 
 # <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/1157a709-f6fc-4bfd-b9b8-ba3b1c964d93" alt="stats" width="35"/> GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="Streak" width="100%"/>
+<p align= "center">
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="stats" width="52.5%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="40%"/>
+</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelothpal&theme=outrun&hide_border=false" alt="Streak" width="100%"/>
 <!--
 ![Neelothpal's Stats](https://github-readme-stats.vercel.app/api?username=Neelothpal&theme=outrun&show_icons=true&hide_border=false&count_private=true)
 ![Neelothpal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neelothpal&theme=outrun&hide_border=false)
