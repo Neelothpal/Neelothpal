@@ -57,7 +57,7 @@
 
 ![scroll (1)](https://github.com/Neelothpal/Neelothpal/assets/106467796/a2160364-de7d-4940-b65a-8af1ab758630)
 ![scroll](https://github.com/Neelothpal/Neelothpal/assets/106467796/a9d46cf3-50f6-4152-b091-b24b5b7c2024)
- -->
+
  
 # <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/a2160364-de7d-4940-b65a-8af1ab758630" alt="Certificates" width="35"/> Certificates:
 - <Strong>Google UX design</Strong> by - <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera" width="100" />
@@ -67,7 +67,7 @@
 - <Strong>ML Foundations</Strong> by - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - <Strong>UX Fundamentals</Strong> by - <img src="https://img.shields.io/badge/Gymnasium-grey?style=for-the-badge" alt="Gymnasium" width="100" />
 - <Strong>Python for Data Science</Strong> by - <img src="https://img.shields.io/badge/NPTEL-maroon?style=for-the-badge" alt="NPTEL" width="65" />
-
+ -->
 
 # <img src="https://github.com/Neelothpal/Neelothpal/assets/106467796/1157a709-f6fc-4bfd-b9b8-ba3b1c964d93" alt="stats" width="35"/> GitHub Stats:
 <p align= "center">
